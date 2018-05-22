@@ -1,7 +1,7 @@
 # Heat-bed-anneal
 Use 3D printer heated bed for annealing your printed parts. Creates G-code to control the bed as the heater.
 
-This program generates Gcode to use a 3D printers heat bed as an annealing oven
+This Python program generates Gcode to use a 3D printers heat bed as an annealing oven
 Place part to be annealed above the bed and place a cardboard box over it. 
 Run the g-code created by this Python program and wait a LONG time.
 
